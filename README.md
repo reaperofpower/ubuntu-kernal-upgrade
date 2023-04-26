@@ -3,6 +3,7 @@ Installing the latest kernel.
 Install the shell script which automatically checks and install the latest kernel:
 
 wget https://raw.githubusercontent.com/reaperofpower/ubuntu-kernal-upgrade/main/ubuntu-kernel.sh
+
 sudo install ubuntu-kernel.sh /usr/local/bin/
 
 
